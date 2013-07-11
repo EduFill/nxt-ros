@@ -1,0 +1,10 @@
+\.cmake$
+build/
+\.pyc$
+msg_gen/
+src/.*/msg/_.*\.py
+/msg/lisp/
+nxt_python/src
+nxt_python/bin
+nxt_msgs/src/
+~$
